@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+  p{
+    font-size: 2rem;
+    background-color: palevioletred;
+    width: 50%;
+    text-align: center
+  }
+
+  .cards{
+      background-color: aqua;
+      text-align: center
+  }
+
+  img{
+    margin: 10% 0;
+  }
